@@ -1,0 +1,9 @@
+# Archivos binarios pesados de Blender (excluidos para mantener el repo ligero)
+*.blend
+*.blend1
+
+# Archivos de sistema y temporales
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
