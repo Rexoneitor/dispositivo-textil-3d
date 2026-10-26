@@ -1,5 +1,7 @@
 # Dispositivo Textil Circular — Modelo 3D Paramétrico (Blender API / Python)
 
+> 🌊 Parte del portafolio de **José Aponte** · [rexoneitor.github.io](https://rexoneitor.github.io)
+
 Generación automatizada y procedimental de un dispositivo textil médico/deportivo en **Blender 5.2** mediante scripts en Python (`bpy`).
 
 El proyecto demuestra la construcción completa de mallas 3D complejas a partir de bocetos conceptuales sin escala: cálculo de curvaturas, generación de perforaciones por operaciones booleanas, modelado de bucles/ganchos de velcro y automatización de renders por línea de comandos.
